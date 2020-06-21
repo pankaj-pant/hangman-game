@@ -2,7 +2,7 @@
 
 Guess letters one at a time to solve the word puzzle. Click a letter to guess it. If you pick a letter that is not in the word, then a stickman is slowly drawn. With each wrong letter guess, the man is drawn more and more. When the man is finished, he is hung and the game is lost. If you can reveal all the letters in the word before the man is hung then you win!
 
-* [Live Demo](https://hangman-game-ppant.herokuapp.com/)
+* [Live Demo](https://hangman-72ecb.web.app/)
 
 
 ## Quick start
